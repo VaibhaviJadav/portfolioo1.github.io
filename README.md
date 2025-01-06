@@ -41,7 +41,7 @@ Here's a glimpse into my journey:
 
 ## 🌐 *Find Me Online*
 
-- [GitHub]()
+- [GitHub](https://github.com/VaibhaviJadav/portfolioo1.github.io)
 - [LinkedIn](https://www.linkedin.com/in/vaibhavi-jadhav-87059828a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ## Portfolio Highlights
